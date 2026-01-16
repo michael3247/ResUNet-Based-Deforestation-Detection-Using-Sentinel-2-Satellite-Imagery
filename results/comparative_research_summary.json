@@ -1,0 +1,23 @@
+[
+    {
+        "model_name": "ResUNet_Proposed",
+        "parameters_m": 32.46,
+        "training_time_minutes": 449.23,
+        "loss": 1.1890010833740234,
+        "compile_metrics": 0.7590206861495972
+    },
+    {
+        "model_name": "FCN_Baseline",
+        "parameters_m": 0.74,
+        "training_time_minutes": 98.2,
+        "loss": 1.33400297164917,
+        "compile_metrics": 0.7690265774726868
+    },
+    {
+        "model_name": "Standard_UNet_Baseline",
+        "parameters_m": 0.19,
+        "training_time_minutes": 33.87,
+        "loss": 1.8907747268676758,
+        "compile_metrics": 0.7037649154663086
+    }
+]

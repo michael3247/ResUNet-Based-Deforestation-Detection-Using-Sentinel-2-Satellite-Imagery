@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+      Forest       0.78      0.91      0.84  14549321
+  Deforested       0.69      0.43      0.53   6422199
+
+    accuracy                           0.77  20971520
+   macro avg       0.74      0.67      0.69  20971520
+weighted avg       0.75      0.77      0.75  20971520

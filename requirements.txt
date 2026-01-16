@@ -1,0 +1,16 @@
+# Core Machine Learning Framework
+tensorflow>=2.15.0
+
+# Data Manipulation and Numerical Computing
+numpy
+pandas
+
+# Visualizations and Plotting
+matplotlib
+seaborn
+
+# Statistical Analysis and Metrics
+scikit-learn
+
+# Progress bars and Utilities (Good to have for the preprocessing scripts)
+tqdm
